@@ -1,0 +1,9 @@
+{
+    "opportunity_name":"Tailspin Toys",
+    "sales_agent":"Sales Agent 1",
+    "sales_region":"APSA - Australia",
+    "sales_category":"Products",
+    "forecast_close": "September 2023",
+    "forecast_amount": "168,000.00",
+    "weighted_forecast": "100,800.00"
+}

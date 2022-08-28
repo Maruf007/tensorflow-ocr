@@ -1,0 +1,9 @@
+{
+    "opportunity_name":"Contoso, Ltd.",
+    "sales_agent":"Sales Agent 3",
+    "sales_region":" EMEA - France",
+    "sales_category":"Mixture",
+    "forecast_close": "October 2023",
+    "forecast_amount": "172,500.00",
+    "weighted_forecast": " 155,250.00"
+}

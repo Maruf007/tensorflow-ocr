@@ -1,0 +1,9 @@
+{
+    "opportunity_name":"Adatum Corporation",
+    "sales_agent":"Sales Agent 1",
+    "sales_region":"US - Northeast",
+    "sales_category":"Consulting",
+    "forecast_close": "January 2023",
+    "forecast_amount": "150,000.00",
+    "weighted_forecast": "135,000.00"
+}
